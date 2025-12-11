@@ -1,4 +1,4 @@
-# PythoOon
+# PythoOon <img src=PythoOon_Logo_100x100_o0.png>
 oOoMindset inspired tools enabling usage of Python programming language as a translator of in oOoCodingStyle written code to a Linux Mint 21.3 Xfce executable.
 Currently available are following components of the PythoOon system : 
 - https://github.com/oOosys/PythoOon_ColoOor
