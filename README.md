@@ -20,10 +20,11 @@ Which were other of the over multiple years/decades for the purpose of oOo evalu
 - Rust ... well structured, but ... it's hard to learn and ... it takes hundreds of Megabytes on disk to cover needs of simplest applications. 
 - JavaScript, HTML, css ... extremely powerful concept ... but ... there are issues with standalone applications ... depends highly on Web-browser software which size is really huge.
 - Lisaac ... it's there ... full download over 200 MBytes ... scarce information ... steep learning curve at the beginning ... 
-- awk, Perl, PHP ... all quite text oriented ... but all somehow shell scripting descendants without the strength to cover all areas of programming needs.
+- awk, Perl, PHP ... shell scripting descendants without the strength to cover all areas of programming needs.
 - Java ... it is quite near in style to C++ coding and ... my experience with it was, that it is somehow slow ... in other words: I don't like it.
 - C, C++ ... the generated executables are way too large in size compared to what they provide if the code is only some lines ... Would need much more work put into prototyping 
-- ... there are many more, less mainstream ones ... each focusing on another aspect of ... SYNTAX ... but ... oOo is about semantics .. so it needs anyway an own approach to organizing software on a computer system 
+- ... there are many more, less mainstream ones ... each focusing on another aspect of ... SYNTAX ... but ... 
+<br>oOo is about <b>SEMANTICS</b> ... so it needs anyway an own approach to organizing software on a computer system.
 
 
 
