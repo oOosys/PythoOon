@@ -1,6 +1,9 @@
 # PythoOon
 oOoMindset inspired tools enabling usage of Python programming language as a translator of in oOoCodingStyle written code to a Linux Mint 21.3 Xfce executable.
-
+Currently available are following components of the PythoOon system : 
+- https://github.com/oOosys/PythoOon_ColoOor
+- https://github.com/oOosys/PythoOon_ColoOorPalette
+- https://github.com/oOosys/PythoOon_oOoNamespaceDictionary
 # Motivation
 ## Why PythoOon ? Why has oOo adopted Python programming language as the engine for its oOoCodingStyle ? 
 Because Python is the only programming language with extremely huge amount of "batteries included". If the goal is to refrain from re-inventing the wheel and rewriting anything from scratch to adapt it to own needs, it is the only making sense available choice in shaping the own computer system to understand the Oop (i.e. me, the Operator), instead of learning system's language. 
