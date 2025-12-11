@@ -12,7 +12,7 @@ Because Python is the only programming language with extremely huge amount of "b
 
 Which were other of the over multiple years/decades for the purpose of oOo evaluated programming languages?
 - Lua ... the scripting language used by SciTE, TextAdept, and many other applications. Nearest in coding style to oOo ... but ... it lacks so many "batteries", that all the appealing language philosophy is of little use.
-- eLisp ... the scripting language used by eMacs. Sure an interesting approach, but it imposes a syntax shich is just ... ugly.
+- eLisp ... the scripting language used by eMacs. Sure an interesting approach, but it imposes a syntax which is just ... ugly.
 - Julia ... nice features, but quite similar to many other languages and ... a niche language which needs more batteries outside of its niche.
 - Ruby ... nice alternative to Python, but ... it's just another culture behind it and the amount of "batteries" included way behind Python
 - dash/bash ... in their core the best design ever ... extremely near to what oOo is all about, but ... limited to textual oriented tasks, failing at creating GUI applications
