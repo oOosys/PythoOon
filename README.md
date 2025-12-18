@@ -13,7 +13,7 @@ And please NOTICE that PythoOon is only a kind of proof of concept. Usage of the
 <b>Why has oOo adopted Python programming language as the engine for its oOoCodingStyle ? </b><br>
 Because Python is the only programming language with extremely huge amount of "batteries included". If the goal is to refrain from re-inventing the wheel and rewriting anything from scratch to adapt it to own needs, it is the only making sense available choice in shaping the own computer system to understand the Oop (i.e. me, the Operator), instead of learning system's language. 
 
-<b>Another quite important property of Python is that LLMs are best at coding using Python ... way better than writing code in any other programming language (except maybe C, C++)</b> 
+<i>Another quite important property of Python is that LLMs are best at coding using Python ... way better than writing code in any other programming language (except maybe C, C++)</i> 
 
 Which were other of the over multiple years/decades for the purpose of oOo evaluated programming languages?
 - Lua ... the scripting language used by SciTE, TextAdept, and many other applications. Nearest in coding style to oOo ... but ... it lacks so many "batteries", that all the appealing language philosophy is of little use.
@@ -28,8 +28,9 @@ Which were other of the over multiple years/decades for the purpose of oOo evalu
 - awk, Perl, PHP ... shell scripting descendants without the strength to cover all areas of programming needs.
 - Java ... it is quite near in style to C++ coding and ... my experience with it was, that it is somehow slow ... in other words: I don't like it.
 - C, C++ ... the generated executables are way too large in size compared to what they provide if the code is only some lines ... Would need much more work put into prototyping 
-- ... there are many more, less mainstream ones ... each focusing on another aspect of ... SYNTAX ... but ... 
-<br><b>oOo is about SEMANTICS</b> ... so it needs anyway an own custom approach to coding and orchestrating software on the own private computer system.
+- ... there are many, many more (estimated 50 thousand different ones), starting with Fortran, ALGOL60, apl, Basic, VisualBasic, ... each focusing on another aspect of ... SYNTAX ... but ... 
+<br><b>oOo is about SEMANTICS</b><br>
+... so it needs anyway an own custom approach to coding and orchestrating software on the own private computer system.
 
 
 
