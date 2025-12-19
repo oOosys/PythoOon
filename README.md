@@ -1,9 +1,13 @@
+May I encourage you as first step on the oOoPath to PythoOon to use <b>oOoGuidelinesForLLMs.md</b> as introductory text while chatting with Claude (with ChatGPT/Grok you can provide it once and store it in your preferences persistent over chat sessions). This will result in huge improvement of the quality of the responses you will get ...
+
 # Pytho<img src=PythoOon_Logo_50x50_o0.png>on
-oOoMindset ( see https://github.com/oOosys/oOo for what oOo is all about ) inspired tools enabling usage of Python programming language as a translator of in oOoCodingStyle written code to a Linux Mint 21.3 Xfce executable.
+oOoMindset ( see https://github.com/oOosys/oOo for what oOo is about ) inspired tools enabling usage of Python programming language as a translator of in oOoCodingStyle written code to a Linux Mint 21.3 Xfce executable. 
 Currently available are following components of the PythoOon system : 
 - https://github.com/oOosys/PythoOon_ColoOor
 - https://github.com/oOosys/PythoOon_ColoOorPalette
 - https://github.com/oOosys/PythoOon_oOoNamespaceDictionary
+
+
 # Motivation
 <b>Why PythoOon ?</b><br>
 There are many aspects of Python I just don't like, but decades of search for a programming language better suitable to fit to my needs failed. One of the limitations imposed by Python is the range of characters for symbol names ( `[_A-Za-z0-9]` ). In age of worldwide accepted Unicode standard I would like to be able to use its full potential for naming of symbols/variables/identifiers. An attempt to achieve that functionality is `oOoNamespaceDictionary`, but it is only an attempt, so if you have a better idea how to achieve the same effect ... please let me know about it.  
